@@ -1,0 +1,34 @@
+body {
+	background-color: burlywood;
+	background-size: cover;
+	background-repeat:repeat ;
+	background-attachment: fixed;
+
+}
+.one {
+	color: brown;
+	border-style: double;
+	border-width: thick;
+}
+
+.two {
+
+	background-color:sandybrown ;
+}
+
+.p {
+	font-style: arial;
+	font-weight: 500;
+	color: lightyellow;
+	font-size: normal;
+	border-style: dashed;
+}
+
+.o {
+	max-height:800px;
+	width: 800px;
+}
+
+.number {
+	background-color: brown;
+}
